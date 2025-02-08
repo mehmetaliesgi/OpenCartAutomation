@@ -1,0 +1,40 @@
+23:25:54 [TestNG-tests-3] INFO  testCases.TC001_RegisterTest - Clicked My Account button
+23:25:54 [TestNG-tests-1] INFO  testCases.TC001_RegisterTest - Clicked My Account button
+23:25:59 [TestNG-tests-2] INFO  testCases.TC001_RegisterTest - ***** Starting TC001_RegisterTest *****
+23:25:59 [TestNG-tests-2] INFO  testCases.TC001_RegisterTest - Clicked My Account button
+23:26:00 [TestNG-tests-2] INFO  testCases.TC001_RegisterTest - Clicked Register button
+23:26:00 [TestNG-tests-2] INFO  testCases.TC001_RegisterTest - Providing customer details....
+23:26:02 [TestNG-tests-2] INFO  testCases.TC001_RegisterTest - Validating expected message...
+23:26:02 [TestNG-tests-2] INFO  testCases.TC001_RegisterTest - ***** Finished TC001_RegisterTest *****
+23:26:04 [TestNG-tests-3] ERROR testCases.TC001_RegisterTest - Test failed because: org.openqa.selenium.ElementNotInteractableException: element not interactable
+  (Session info: MicrosoftEdge=132.0.2957.140)
+Build info: version: '4.28.1', revision: '73f5ad48a2'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '22.0.1'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Command: [5c0f5b617d0386b99bd706cdc59b2870, clickElement {id=f.1BFAA996CAD8D48653336E8536D56A30.d.81B4164C075D72D88EA29BD5C622EEF1.e.113}]
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 132.0.2957.140, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:57955}, msedge: {msedgedriverVersion: 132.0.2957.140 (a81e27b375d..., userDataDir: C:\Users\mehme\AppData\Loca...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: Windows 11, proxy: Proxy(), se:bidiEnabled: false, se:cdp: ws://192.168.1.4:4444/sessi..., se:cdpVersion: 132.0.2957.140, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[RemoteWebDriver: MicrosoftEdge on Windows 11 (5c0f5b617d0386b99bd706cdc59b2870)] -> xpath: //a[text()='Register']]
+Session ID: 5c0f5b617d0386b99bd706cdc59b2870
+23:26:04 [TestNG-tests-3] INFO  testCases.TC001_RegisterTest - ***** Finished TC001_RegisterTest *****
+23:26:15 [TestNG-tests-1] ERROR testCases.TC001_RegisterTest - Test failed because: org.openqa.selenium.ElementNotInteractableException: element not interactable
+  (Session info: MicrosoftEdge=132.0.2957.140)
+Build info: version: '4.28.1', revision: '73f5ad48a2'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '22.0.1'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Command: [5c0f5b617d0386b99bd706cdc59b2870, clickElement {id=f.1BFAA996CAD8D48653336E8536D56A30.d.81B4164C075D72D88EA29BD5C622EEF1.e.113}]
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 132.0.2957.140, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:57955}, msedge: {msedgedriverVersion: 132.0.2957.140 (a81e27b375d..., userDataDir: C:\Users\mehme\AppData\Loca...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: Windows 11, proxy: Proxy(), se:bidiEnabled: false, se:cdp: ws://192.168.1.4:4444/sessi..., se:cdpVersion: 132.0.2957.140, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[RemoteWebDriver: MicrosoftEdge on Windows 11 (5c0f5b617d0386b99bd706cdc59b2870)] -> xpath: //a[text()='Register']]
+Session ID: 5c0f5b617d0386b99bd706cdc59b2870
+23:26:15 [TestNG-tests-1] INFO  testCases.TC001_RegisterTest - ***** Finished TC001_RegisterTest *****
+18:32:44 [main] INFO  testCases.TC001_RegisterTest - ***** Starting TC001_RegisterTest *****
+18:32:45 [main] INFO  testCases.TC001_RegisterTest - Clicked My Account button
+18:32:47 [main] INFO  testCases.TC001_RegisterTest - Clicked Register button
+18:32:47 [main] INFO  testCases.TC001_RegisterTest - Providing customer details....
+18:32:49 [main] INFO  testCases.TC001_RegisterTest - Validating expected message...
+18:32:50 [main] INFO  testCases.TC001_RegisterTest - ***** Finished TC001_RegisterTest *****
+18:32:54 [main] INFO  testCases.TC002_LoginTest - ***** Starting TC002_LoginTest *****
+18:37:20 [main] INFO  testCases.TC001_RegisterTest - ***** Starting TC001_RegisterTest *****
+18:37:21 [main] INFO  testCases.TC001_RegisterTest - Clicked My Account button
+18:37:24 [main] INFO  testCases.TC001_RegisterTest - Clicked Register button
+18:37:24 [main] INFO  testCases.TC001_RegisterTest - Providing customer details....
+18:37:26 [main] INFO  testCases.TC001_RegisterTest - Validating expected message...

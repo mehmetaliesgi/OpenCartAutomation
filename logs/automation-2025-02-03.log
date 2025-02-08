@@ -1,0 +1,57 @@
+13:06:20 [TestNG-tests-1] INFO  testCases.TC001_RegisterTest - Validating expected message...
+13:06:20 [TestNG-tests-3] INFO  testCases.TC001_RegisterTest - Validating expected message...
+13:06:20 [TestNG-tests-3] INFO  testCases.TC001_RegisterTest - ***** Finished TC001_RegisterTest *****
+13:06:20 [TestNG-tests-1] INFO  testCases.TC001_RegisterTest - ***** Finished TC001_RegisterTest *****
+13:06:21 [TestNG-tests-2] INFO  testCases.TC001_RegisterTest - ***** Starting TC001_RegisterTest *****
+13:06:22 [TestNG-tests-2] INFO  testCases.TC001_RegisterTest - Clicked My Account button
+13:06:23 [TestNG-tests-2] INFO  testCases.TC001_RegisterTest - Clicked Register button
+13:06:23 [TestNG-tests-2] INFO  testCases.TC001_RegisterTest - Providing customer details....
+13:06:24 [TestNG-tests-2] INFO  testCases.TC001_RegisterTest - Validating expected message...
+13:06:24 [TestNG-tests-2] INFO  testCases.TC001_RegisterTest - ***** Finished TC001_RegisterTest *****
+13:33:05 [main] INFO  testCases.TC002_LoginTest - ***** Starting TC002_LoginTest *****
+13:34:37 [main] INFO  testCases.TC002_LoginTest - ***** Starting TC002_LoginTest *****
+13:34:40 [main] INFO  testCases.TC002_LoginTest - ***** Finished TC002_LoginTest *****
+13:39:32 [main] INFO  testCases.TC002_LoginTest - ***** Starting TC002_LoginTest *****
+13:39:34 [main] INFO  testCases.TC002_LoginTest - ***** Finished TC002_LoginTest *****
+15:30:24 [main] INFO  testCases.TC003_LoginDDT - ***** Starting TC002_LoginTest *****
+15:30:29 [main] INFO  testCases.TC003_LoginDDT - ***** Finished TC002_LoginTest *****
+15:30:29 [main] INFO  testCases.TC003_LoginDDT - ***** Starting TC002_LoginTest *****
+15:30:40 [main] INFO  testCases.TC003_LoginDDT - ***** Finished TC002_LoginTest *****
+15:30:40 [main] INFO  testCases.TC003_LoginDDT - ***** Starting TC002_LoginTest *****
+15:30:52 [main] INFO  testCases.TC003_LoginDDT - ***** Finished TC002_LoginTest *****
+15:30:52 [main] INFO  testCases.TC003_LoginDDT - ***** Starting TC002_LoginTest *****
+15:30:55 [main] INFO  testCases.TC003_LoginDDT - ***** Starting TC002_LoginTest *****
+15:30:59 [main] INFO  testCases.TC003_LoginDDT - ***** Finished TC002_LoginTest *****
+15:30:59 [main] INFO  testCases.TC003_LoginDDT - ***** Starting TC002_LoginTest *****
+15:31:10 [main] INFO  testCases.TC003_LoginDDT - ***** Finished TC002_LoginTest *****
+15:32:06 [main] INFO  testCases.TC003_LoginDDT - ***** Starting TC002_LoginTest *****
+15:32:09 [main] INFO  testCases.TC003_LoginDDT - ***** Finished TC002_LoginTest *****
+15:32:09 [main] INFO  testCases.TC003_LoginDDT - ***** Starting TC002_LoginTest *****
+15:32:21 [main] INFO  testCases.TC003_LoginDDT - ***** Finished TC002_LoginTest *****
+15:32:21 [main] INFO  testCases.TC003_LoginDDT - ***** Starting TC002_LoginTest *****
+15:32:33 [main] INFO  testCases.TC003_LoginDDT - ***** Finished TC002_LoginTest *****
+15:32:33 [main] INFO  testCases.TC003_LoginDDT - ***** Starting TC002_LoginTest *****
+15:32:45 [main] INFO  testCases.TC003_LoginDDT - ***** Finished TC002_LoginTest *****
+15:32:45 [main] INFO  testCases.TC003_LoginDDT - ***** Starting TC002_LoginTest *****
+15:32:49 [main] INFO  testCases.TC003_LoginDDT - ***** Finished TC002_LoginTest *****
+15:32:49 [main] INFO  testCases.TC003_LoginDDT - ***** Starting TC002_LoginTest *****
+15:33:01 [main] INFO  testCases.TC003_LoginDDT - ***** Finished TC002_LoginTest *****
+15:35:34 [main] INFO  testCases.TC003_LoginDDT - ***** Starting TC002_LoginTest *****
+15:35:35 [main] INFO  testCases.TC003_LoginDDT - ***** Starting TC002_LoginTest *****
+15:35:35 [main] INFO  testCases.TC003_LoginDDT - ***** Starting TC002_LoginTest *****
+15:35:36 [main] INFO  testCases.TC003_LoginDDT - ***** Starting TC002_LoginTest *****
+15:35:36 [main] INFO  testCases.TC003_LoginDDT - ***** Starting TC002_LoginTest *****
+15:35:37 [main] INFO  testCases.TC003_LoginDDT - ***** Starting TC002_LoginTest *****
+15:36:36 [main] INFO  testCases.TC003_LoginDDT - ***** Starting TC002_LoginTest *****
+15:36:39 [main] INFO  testCases.TC003_LoginDDT - ***** Finished TC002_LoginTest *****
+15:36:39 [main] INFO  testCases.TC003_LoginDDT - ***** Starting TC002_LoginTest *****
+15:36:52 [main] INFO  testCases.TC003_LoginDDT - ***** Finished TC002_LoginTest *****
+15:36:52 [main] INFO  testCases.TC003_LoginDDT - ***** Starting TC002_LoginTest *****
+15:37:03 [main] INFO  testCases.TC003_LoginDDT - ***** Finished TC002_LoginTest *****
+15:37:03 [main] INFO  testCases.TC003_LoginDDT - ***** Starting TC002_LoginTest *****
+15:37:16 [main] INFO  testCases.TC003_LoginDDT - ***** Finished TC002_LoginTest *****
+15:37:16 [main] INFO  testCases.TC003_LoginDDT - ***** Starting TC002_LoginTest *****
+15:37:20 [main] INFO  testCases.TC003_LoginDDT - ***** Finished TC002_LoginTest *****
+15:37:20 [main] INFO  testCases.TC003_LoginDDT - ***** Starting TC002_LoginTest *****
+15:40:40 [main] INFO  testCases.TC003_LoginDDT - ***** Starting TC002_LoginTest *****
+15:40:43 [main] INFO  testCases.TC003_LoginDDT - ***** Finished TC002_LoginTest *****

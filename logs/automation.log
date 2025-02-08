@@ -1,0 +1,15 @@
+17:10:24 [main] INFO  testCases.TC001_RegisterTest - Clicked My Account button
+17:10:25 [main] INFO  testCases.TC001_RegisterTest - Clicked Register button
+17:10:25 [main] INFO  testCases.TC001_RegisterTest - Providing customer details....
+17:10:27 [main] INFO  testCases.TC001_RegisterTest - Validating expected message...
+17:10:27 [main] INFO  testCases.TC001_RegisterTest - ***** Finished TC001_RegisterTest *****
+17:10:32 [main] INFO  testCases.TC002_LoginTest - ***** Starting TC002_LoginTest *****
+17:10:34 [main] INFO  testCases.TC002_LoginTest - ***** Finished TC002_LoginTest *****
+17:16:23 [main] INFO  testCases.TC001_RegisterTest - ***** Starting TC001_RegisterTest *****
+17:16:23 [main] INFO  testCases.TC001_RegisterTest - Clicked My Account button
+17:16:24 [main] INFO  testCases.TC001_RegisterTest - Clicked Register button
+17:16:24 [main] INFO  testCases.TC001_RegisterTest - Providing customer details....
+17:16:26 [main] INFO  testCases.TC001_RegisterTest - Validating expected message...
+17:16:26 [main] INFO  testCases.TC001_RegisterTest - ***** Finished TC001_RegisterTest *****
+17:16:31 [main] INFO  testCases.TC002_LoginTest - ***** Starting TC002_LoginTest *****
+17:16:34 [main] INFO  testCases.TC002_LoginTest - ***** Finished TC002_LoginTest *****
