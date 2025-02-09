@@ -14,7 +14,6 @@ import org.openqa.selenium.remote.DesiredCapabilities;
 import org.openqa.selenium.remote.RemoteWebDriver;
 import org.testng.annotations.AfterClass;
 import org.testng.annotations.BeforeClass;
-import org.testng.annotations.BeforeSuite;
 import org.testng.annotations.Parameters;
 
 import java.io.File;
@@ -34,7 +33,7 @@ public class BaseClass {
     @BeforeClass(groups = {"Regression", "Master", "Sanity"})
     @Parameters({"os", "browser"})
     public void setup(String os, String browser) throws IOException {
-        FileReader file = new FileReader("C:\\Users\\mehme\\Desktop\\Selenium_Projects\\OpenCardExample\\src\\test\\resources\\config.properties");
+        FileReader file = new FileReader("C:\\Users\\mehme\\Desktop\\Selenium_Projects\\OpenCartAutomation\\src\\test\\resources\\config.properties");
         properties = new Properties();
         properties.load(file);
 
